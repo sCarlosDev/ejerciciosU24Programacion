@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carlo\\Desktop\\DOC\\ejerciciosProgramacion\\1_ejercicios_bases_de_datos_relacionales\\ejercicio2\\ejercicio2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carlo\\Desktop\\DOC\\ejerciciosProgramacion\\1_ejercicios_bases_de_datos_relacionales\\ejercicio2\\ejercicio2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\DOC\\ejerciciosProgramacion\\1_ejercicios_bases_de_datos_relacionales\\ejercicio2\\ejercicio2.csproj",
+        "projectName": "ejercicio2",
+        "projectPath": "C:\\Users\\carlo\\Desktop\\DOC\\ejerciciosProgramacion\\1_ejercicios_bases_de_datos_relacionales\\ejercicio2\\ejercicio2.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\Desktop\\DOC\\ejerciciosProgramacion\\1_ejercicios_bases_de_datos_relacionales\\ejercicio2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

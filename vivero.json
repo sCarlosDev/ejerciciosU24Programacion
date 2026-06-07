@@ -1,0 +1,54 @@
+{
+  "nombre": "Vivero Balmis",
+  "direccion": "Avenida de la Programación, 24",
+  "plantas": [
+    {
+      "nombre_comun": "Rosa Roja",
+      "nombre_cientifico": "Rosa gallica",
+      "precio": 12.50,
+      "stock": 50
+    },
+    {
+      "nombre_comun": "Tulipán",
+      "nombre_cientifico": "Tulipa gesneriana",
+      "precio": 8.95,
+      "stock": 30
+    },
+    {
+      "nombre_comun": "Orquídea",
+      "nombre_cientifico": "Phalaenopsis",
+      "precio": 25.00,
+      "stock": 15
+    },
+    {
+      "nombre_comun": "Cactus de Navidad",
+      "nombre_cientifico": "Schlumbergera truncata",
+      "precio": 5.99,
+      "stock": 40
+    },
+    {
+      "nombre_comun": "Lavanda",
+      "nombre_cientifico": "Lavandula angustifolia",
+      "precio": 4.50,
+      "stock": 100
+    },
+    {
+      "nombre_comun": "Bonsai Ficus",
+      "nombre_cientifico": "Ficus retusa",
+      "precio": 45.00,
+      "stock": 5
+    },
+    {
+      "nombre_comun": "Hortensia",
+      "nombre_cientifico": "Hydrangea macrophylla",
+      "precio": 14.20,
+      "stock": 25
+    },
+    {
+      "nombre_comun": "Aloe Vera",
+      "nombre_cientifico": "Aloe barbadensis miller",
+      "precio": 7.50,
+      "stock": 60
+    }
+  ]
+}
